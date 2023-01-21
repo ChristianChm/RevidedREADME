@@ -1,4 +1,4 @@
-# RevidedREADME
+# RevisedREADME
 Added my name, course number, and current date.
 
 Christian Chmielewski
